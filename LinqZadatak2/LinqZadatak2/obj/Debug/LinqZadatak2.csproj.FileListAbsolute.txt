@@ -1,0 +1,7 @@
+C:\Users\Laris\source\repos\LinqZadatak2\LinqZadatak2\bin\Debug\LinqZadatak2.exe.config
+C:\Users\Laris\source\repos\LinqZadatak2\LinqZadatak2\bin\Debug\LinqZadatak2.exe
+C:\Users\Laris\source\repos\LinqZadatak2\LinqZadatak2\bin\Debug\LinqZadatak2.pdb
+C:\Users\Laris\source\repos\LinqZadatak2\LinqZadatak2\obj\Debug\LinqZadatak2.csproj.CoreCompileInputs.cache
+C:\Users\Laris\source\repos\LinqZadatak2\LinqZadatak2\obj\Debug\LinqZadatak2.exe
+C:\Users\Laris\source\repos\LinqZadatak2\LinqZadatak2\obj\Debug\LinqZadatak2.pdb
+C:\Users\Laris\source\repos\LinqZadatak2\LinqZadatak2\obj\Debug\LinqZadatak2.csprojAssemblyReference.cache
